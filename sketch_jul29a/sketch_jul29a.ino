@@ -3,6 +3,9 @@
 #define BTTX 51
 #define BTRX 49
 
+//maciek to kurwa jebana
+
+
 SoftwareSerial SerialBT(BTTX, BTRX);
 
 void setup() {
