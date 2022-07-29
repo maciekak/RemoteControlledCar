@@ -4,6 +4,7 @@
 #define BTRX 49
 
 //maciek to kurwa jebana
+//trrsfdfs
 
 
 SoftwareSerial SerialBT(BTTX, BTRX);
