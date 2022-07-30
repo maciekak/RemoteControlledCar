@@ -2,5 +2,5 @@
     "configuration": "cpu=atmega2560",
     "board": "arduino:avr:mega",
     "port": "COM3",
-    "sketch": "sketch_jul29a.ino"
+    "sketch": "sketch_jul29a\\sketch_jul29a.ino"
 }
